@@ -4,7 +4,7 @@ https://github.com/eldar/pose-tensorflow
 '''
 import tensorflow as tf
 
-from tensorflow.python.ops import math_ops
+from tensorflow.python.ops import gen_math_ops
 from tensorflow.python.framework import ops
 
 import tensorflow.contrib.losses as tf_losses
